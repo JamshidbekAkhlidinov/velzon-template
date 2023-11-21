@@ -1,0 +1,17 @@
+{
+    "name": "ustadev/velzon-template",
+    "description": "Template by Jamshidbek Akhlidinov. ustadev.uz",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "ustadev\\template\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "JamshidbekAkhlidinov",
+            "email": "jamshidbekakhlidinov@gmail.com"
+        }
+    ],
+    "require": {}
+}
