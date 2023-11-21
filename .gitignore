@@ -1,7 +1,2 @@
-*
-!.gitignore
-!assets
-!assets/*
-!index.html
-!pages-starter.html
-!README.md
+vendor
+.idea

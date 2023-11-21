@@ -1,0 +1,6 @@
+*
+!.gitignore
+!assets
+!assets/*
+!index.html
+!pages-starter.html
